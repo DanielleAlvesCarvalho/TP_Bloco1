@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1631278695 source:c:\users\danie\desktop\técnicas de programação\codeblocks2\atividade1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
