@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1632410038 source:c:\users\danie\desktop\técnicas de programação\codeblocks2\atividade3\main.c
-	<stdio.h>
-	<stdlib.h>
-	<locale.h>
-	<time.h>
-
